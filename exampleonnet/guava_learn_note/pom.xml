@@ -12,5 +12,10 @@
   	<module>Preconditions</module>
   	<module>Guava_Objects.</module>
   	<module>Guava_Throwables</module>
+  	<module>test1</module>
+  	<module>test</module>
+  	<module>Guava_ImmutableCollections</module>
+  	<module>GoogleGuava</module>
+  	<module>Guava</module>
   </modules>
 </project>

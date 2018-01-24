@@ -2,14 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>faith</groupId>
-    <artifactId>guava</artifactId>
+    <artifactId>guava_learn_note</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>exampleonnet</artifactId>
-  <packaging>pom</packaging>
-  <modules>
-  	<module>guava_learning_note</module>
-  	<module>guava_learn_note</module>
-  	<module>GoogleGuava</module>
-  </modules>
+  <artifactId>Guava_ImmutableCollections</artifactId>
 </project>
