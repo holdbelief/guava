@@ -17,5 +17,12 @@
   	<module>Guava_ImmutableCollections</module>
   	<module>GoogleGuava</module>
   	<module>Guava</module>
+  	<module>Guava_Multiset</module>
+  	<module>Guava_Multimap</module>
+  	<module>Guava_Bimap</module>
+  	<module>Guava_Table</module>
+  	<module>Guava_Cache</module>
+  	<module>Guava_EventBus</module>
+  	<module>Guava_Range</module>
   </modules>
 </project>
