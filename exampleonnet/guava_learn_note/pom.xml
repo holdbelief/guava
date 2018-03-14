@@ -10,7 +10,7 @@
   <modules>
   	<module>Guava学习笔记：Optional优雅的使用null</module>
   	<module>Preconditions</module>
-  	<module>Guava_Objects.</module>
+  	<module>Guava_Objects</module>
   	<module>Guava_Throwables</module>
   	<module>test1</module>
   	<module>test</module>
