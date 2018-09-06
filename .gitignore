@@ -1,2 +1,7 @@
 **/classes
+<<<<<<< HEAD
 **/target
+=======
+**/target
+**/test-classes/
+>>>>>>> branch 'master' of git@github.com:holdbelief/guava.git
